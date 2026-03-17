@@ -13,6 +13,10 @@ export default defineConfig({
           { text: "СКБД та Інструменти", link: "/lecture_dbms_and_tools" },
           { text: "MySQL: JOIN (Об'єднання)", link: "/lecture_mysql_joins" },
           { text: "MySQL: Робота з JSON", link: "/lecture_mysql_json" },
+          {
+            text: "PostgreSQL",
+            link: "/lecture_postgresql",
+          },
         ],
       },
     ],
