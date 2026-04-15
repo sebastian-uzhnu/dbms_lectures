@@ -17,6 +17,14 @@ export default defineConfig({
             text: "PostgreSQL",
             link: "/lecture_postgresql",
           },
+          {
+            text: "MongoDB: Документи та Агрегації",
+            link: "/lecture_mongodb",
+          },
+          {
+            text: "MongoDB: Безпека",
+            link: "/lecture_mongodb_security",
+          },
         ],
       },
     ],
